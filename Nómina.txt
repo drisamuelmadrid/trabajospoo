@@ -1,0 +1,11 @@
+Nombre = Samuel
+Apellidos = Madrid
+Cargo = DIRECTIVO
+Género = MASCULINO
+Salario = $70000.0
+Días trabajados = 30
+Otros ingresos = $0.0
+Pagos salud = $15000.0
+Aportes pensiones = $10000.0
+---------
+Total nómina = $2075000.00
